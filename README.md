@@ -1,16 +1,28 @@
-## Hi there 👋
+# Syem Ador
 
-<!--
-**syemador/syemador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | NLP & LLM Systems | Applied Research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+I work on building and evaluating **LLM-powered NLP systems**, with an interest in
+robustness, multimodal learning, and real-world deployment.
+
+---
+
+### Focus Areas
+- Natural Language Processing (LLMs, Transformers)
+- Machine Learning Engineering
+- Applied AI Research
+
+---
+
+### Tech
+Python · PyTorch · Transformers · TensorFlow · Docker
+
+---
+
+### Selected Projects
+- SatCLIP-GNN
+- AI Sweet Writer
+- UniSafe
