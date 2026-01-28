@@ -14,7 +14,7 @@
 
 
   <a href="https://www.mq.edu.au/"><img src="https://img.shields.io/badge/Macquarie_University-A6192E?style=for-the-badge&logo=academia&logoColor=white" />
-  <a href="https://orcid.org/your-id"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0007-7708-1784"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
