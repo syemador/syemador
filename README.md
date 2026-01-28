@@ -4,7 +4,7 @@
 **Targeting: Junior SOC Analyst | Detection Engineer | Blue Team Operations**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/syemador"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
   <img src="https://img.shields.io/badge/Focus-Blue_Team-0052FF?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Seeking_Roles-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge" />
@@ -12,7 +12,7 @@
 
 <p align="left">
 
-
+  <a href="https://www.linkedin.com/in/syemador"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.mq.edu.au/"><img src="https://img.shields.io/badge/Macquarie_University-A6192E?style=for-the-badge&logo=academia&logoColor=white" />
   <a href="https://orcid.org/0009-0007-7708-1784"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="mailto:syemshiblyador@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
