@@ -11,7 +11,9 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Macquarie_University-A6192E?style=for-the-badge&logo=academia&logoColor=white" />
+
+
+  <a href="https://www.mq.edu.au/"><img src="https://img.shields.io/badge/Macquarie_University-A6192E?style=for-the-badge&logo=academia&logoColor=white" />
   <a href="https://orcid.org/your-id"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
   <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
@@ -19,9 +21,9 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/talkativesync"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/syemador"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/313242952862531585"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 > **Current Development:** Building out 10+ hands-on labs focused on **SOC Automation**, **SIEM Tuning**, and **Incident Response** to demonstrate technical readiness for Tier 1 operations.
