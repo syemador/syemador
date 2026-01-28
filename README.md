@@ -18,11 +18,15 @@
   <a href="mailto:syemshiblyador@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+
 <p align="left">
-  <a href="https://x.com/talkativesync"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:syemshiblyador@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/syemador"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discordapp.com/users/313242952862531585"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198309929255/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
+
 
 > **Current Development:** Building out 10+ hands-on labs focused on **SOC Automation**, **SIEM Tuning**, and **Incident Response** to demonstrate technical readiness for Tier 1 operations.
 ## Objective
