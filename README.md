@@ -4,11 +4,14 @@
 **Targeting: Junior SOC Analyst | Detection Engineer | Blue Team Operations**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/syemador"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Focus-Blue_Team-0052FF?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Seeking_Roles-green?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/syemador"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-Blue_Team-0052FF?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Roles-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ongoing-Portfolio_Labs-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+> **Current Development:** Building out 10+ hands-on labs focused on **SOC Automation**, **SIEM Tuning**, and **Incident Response** to demonstrate technical readiness for Tier 1 operations.
 ## Objective
 My journey through Computer Science and AI has fueled a deep passion for Cybersecurity and Blue Team operations. I am now looking to apply my background in pattern recognition and automation as a Tier 1 Security Operations Center (SOC) Analyst.
 
@@ -120,35 +123,12 @@ My journey through Computer Science and AI has fueled a deep passion for Cyberse
 * **<a href="https://github.com/yourusername/alert-fatigue-analysis-siem">Alert Fatigue Analysis</a>**
   * *Focus:* Auditing SIEM noise to prioritize high-risk alerts and reduce false-positive rates.
 
-## Focus Areas
-- Proactive and defensive cybersecurity
-- Red, Blue, and Purple Team methodologies
-- Security automation using Python
-- AI-assisted and agent-based cyber defense
-- Incident response and detection engineering
 
 ## What This Portfolio Demonstrates
 - Practical understanding of real-world attack and defense workflows  
 - Clear and professional documentation of security findings  
 - Ability to translate theory into applied security systems  
 - Research-oriented exploration of AI in cybersecurity contexts  
-
-## Tools & Technologies
-- **Security & Adversary Simulation:** Kali Linux, Metasploit, MITRE ATT&CK  
-- **Detection & Response:** SIEM concepts, log analysis, incident reporting  
-- **Programming:** Python (automation, analysis), Bash  
-- **AI / ML:** PyTorch, Transformer-based models (research-oriented use)  
-- **Environments:** Linux-based lab environments, controlled test setups  
-
-## Project Structure
-Each project repository follows a consistent structure:
-- Objective and threat model  
-- Environment and assumptions  
-- Tools and techniques used  
-- Step-by-step execution or analysis  
-- Findings and limitations  
-- Mitigation strategies  
-- Reflections and lessons learned  
 
 ## Ethical Notice
 All work in this portfolio was conducted in isolated lab environments or controlled simulations. No unauthorized systems, networks, or data were targeted.
