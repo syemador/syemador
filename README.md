@@ -8,7 +8,20 @@
   <img src="https://img.shields.io/badge/Focus-Blue_Team-0052FF?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Seeking_Roles-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ongoing-Portfolio_Labs-orange?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Macquarie_University-A6192E?style=for-the-badge&logo=academia&logoColor=white" />
+  <a href="https://orcid.org/your-id"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 > **Current Development:** Building out 10+ hands-on labs focused on **SOC Automation**, **SIEM Tuning**, and **Incident Response** to demonstrate technical readiness for Tier 1 operations.
